@@ -1,4 +1,3 @@
-package OOPLAB3;
 public class House {
     //member variable
     public int walls;
